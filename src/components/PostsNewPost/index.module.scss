@@ -1,0 +1,22 @@
+.new_post {
+  padding: 50px;
+}
+
+/*
+*
+*/
+
+.input_label {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 20px;
+
+  .label {
+    margin-bottom: 5px;
+  }
+
+  .input {
+    height: 35px;
+    padding: 15px;
+  }
+}

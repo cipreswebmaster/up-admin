@@ -1,0 +1,19 @@
+{
+  "Nombre universidad": "nombre_universidad",
+  "Video presentación": "video_pres",
+  "Descripción": "descripcion_uni",
+  "Proceso de admisión": "proceso_admision",
+  "Contacto de admisión": "contacto_admision",
+  "Apoyo financiero": "apoyo_financiero",
+  "Mapa": "mapa",
+  "Acreditaciones": "acreditaciones",
+  "Intercambios": "intercambios",
+  "Link de internacionalización": "link_internacionalizacion",
+  "Url sitio web": "web",
+  "ID carrera": "id_carrera",
+  "Video de la carrera": "video",
+  "Propósito de la carrera": "proposito_carrera",
+  "Perfil del aspirante": "perfil_aspirante",
+  "Perfil profesional": "perfil_prof",
+  "Precio del semestre": "precio_semestre"
+}

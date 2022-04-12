@@ -1,0 +1,21 @@
+.fields_container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 30px 15px;
+  margin-bottom: 30px;
+}
+
+.carreras {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  margin-bottom: 50px;
+
+  .car_label {
+    text-align: start !important;
+    margin-bottom: 5px;
+  }
+}
+
+.image {
+  margin-top: 50px;
+}

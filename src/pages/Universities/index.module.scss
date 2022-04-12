@@ -1,0 +1,12 @@
+.buttons {
+  & > button {
+    margin-right: 15px;
+  }
+}
+
+.universities {
+  margin: 15px 50px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  gap: 15px;
+}

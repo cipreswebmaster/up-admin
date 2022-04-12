@@ -1,0 +1,41 @@
+.post {
+  display: flex;
+  width: 100%;
+  border: 1px solid #98989a;
+  border-radius: 5px;
+  margin-bottom: 15px;
+
+  .image {
+    width: 22.5%;
+    padding: 15px;
+  }
+
+  .info {
+    width: 75%;
+    padding: 15px;
+
+    .title {
+      font-size: 1.5rem;
+      font-weight: bold;
+      margin-bottom: 5px;
+    }
+
+    .entradilla {
+      margin-bottom: 15px;
+    }
+
+    .dates {
+      font-size: 0.9rem;
+      color: #98989a;
+    }
+  }
+
+  .action {
+    width: 2.5%;
+    margin: 15px;
+
+    & > * {
+      cursor: pointer;
+    }
+  }
+}
